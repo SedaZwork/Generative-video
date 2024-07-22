@@ -2,7 +2,7 @@ The proyect is separated in several steps. Creating the base images, mixin them 
 
 1  Image mixing using different techniques: Latent combine, image reference, Loras...
 
-<img src="https://github.com/user-attachments/assets/0753834f-715d-481b-b92f-3b355e635785" width=50% height=50% align="center">
+<img src="https://github.com/user-attachments/assets/0753834f-715d-481b-b92f-3b355e635785" width=30% height=30% align="center">
 
 2  Video generation by prompt traveling in ComfyUI
 
