@@ -9,7 +9,7 @@ Objetives:
 - Creative and resolution upscaling.
 
 
-<img src="[https://user-images.githubusercontent.com/16319829/81180309-2b51f000-8fee-11ea-8a78-ddfe8c3412a7.png](https://github.com/user-attachments/assets/0753834f-715d-481b-b92f-3b355e635785)" width=50% height=50%>
+<img src="https://user-images.githubusercontent.com/16319829/81180309-2b51f000-8fee-11ea-8a78-ddfe8c3412a7.png" width=50% height=50%>
 
 2  Video generation by image references in ComfyUI
 
