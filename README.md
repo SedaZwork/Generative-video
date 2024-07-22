@@ -8,7 +8,7 @@ Objetives:
 - Classifying models and loras to fit on creativity and image consistance needed in every case.
 - Creative and resolution upscaling.
 
-![ComfyUI_temp_imbxv_00041_ - lowres](https://github.com/user-attachments/assets/0753834f-715d-481b-b92f-3b355e635785)width=50% height=50%>
+![ComfyUI_temp_imbxv_00041_ - lowres](https://github.com/user-attachments/assets/0753834f-715d-481b-b92f-3b355e635785)<width=50% height=50%>
 
 2  Video generation by image references in ComfyUI
 
