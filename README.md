@@ -9,6 +9,9 @@ Objetives:
 - Creative and resolution upscaling.
 
 ![ComfyUI_temp_imbxv_00041_ - lowres](https://github.com/user-attachments/assets/0753834f-715d-481b-b92f-3b355e635785)
+<img src="[https://ik.imagekit.io/ikmedia/women-dress-2.jpg](https://github.com/user-attachments/assets/0753834f-715d-481b-b92f-3b355e635785)" 
+     width="400" 
+     height="500" />
 
 2  Video generation by image references in ComfyUI
 
